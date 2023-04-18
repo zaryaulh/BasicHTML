@@ -1,22 +1,24 @@
-<<<<<<< HEAD
-# BasicHTML
-=======
-# Introduction to basic HTML
+##Assignment-1
+This HTML file is a personal website created by Malik Zaryan ul Hassan. It contains information about the creator, his experience in software development, his tech stack, favorite books, and a contact form.
 
-Practice Git CLI, basic HTML elements and build short introduction about yourself.
+##Usage
+You can view the website by opening the HTML file in your web browser. The navigation bar at the top of the page allows you to jump to different sections of the website.
 
-## Requirement
+##Sections
+Header
+Contains the creator's name, a brief introduction, and a table showing places he has visited.
 
-Edit the codes in `index.html` and create a webpage to introduce yourself similar to
-[this sample](https://integrify-finland.github.io/bof-introduction-sample/)
+##Tech Stack
+Lists the creator's tech stack, which includes HTML, CSS, C++, C#, PostgreSQL, and SQL.
 
-1. Make use of different tags: headings, paragraphs, link, italic, ordered list, unordered list,table, form
-2. Check out more tags that might be helpful: address, section, article, audio
-3. Make sure you do not leave unnecessary while space in your codes
-Styling is not needed for this assignment
-4. Deploy your code base into any hosting platform of your choice. Rewrite README file to describe your project with few more details.
+##Favorite Books
+Lists the creator's favorite book, which is "A Place of Refuge" by Asmaa Hussein.
 
-## Result
-Please add also link to your deployment
-![README example](readme-example.png)
->>>>>>> dev_branch
+##Contact Form
+Allows visitors to ask the creator a question by filling out a form with their name, email, topic, filename, issue description, and a screenshot of their code.
+
+##Footer
+Contains the creator's name.
+
+##License
+This website is not licensed for commercial or public use.
